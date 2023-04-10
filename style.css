@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: purple;
+    font-family: Arial Narrow Bold;
+    font-size: 75px; 
+}
+.team_dunks{
+    width: 50%;
+    border-radius: 60px;
+}
